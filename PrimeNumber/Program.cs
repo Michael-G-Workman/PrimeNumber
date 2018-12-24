@@ -4,6 +4,8 @@
 //
 // PrimeNumber.cs
 //
+// An example C# console application to generate prime numbers
+//
 // by Michael G. Workman
 // michael.g.workman@gmail.com
 //
