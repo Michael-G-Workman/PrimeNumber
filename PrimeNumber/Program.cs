@@ -7,7 +7,7 @@
 // An example C# console application to generate prime numbers
 //
 // by Michael G. Workman
-// michael.g.workman@gmail.com
+// michael DOT g DOT workman AT gmail DOT COM
 //
 //---------------------------------------------------------------
 
@@ -22,7 +22,7 @@ namespace PrimeNumber
             int startNumber = 0;
             int endNumber = 0;
 
-            Console.WriteLine("Enter a start number and an end number");
+            Console.WriteLine("Enter a start number and an end number:");
             startNumber = Int32.Parse(Console.ReadLine());
             endNumber = Int32.Parse(Console.ReadLine());
 
