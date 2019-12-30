@@ -1,5 +1,3 @@
-﻿using System;
-
 //---------------------------------------------------------------
 //
 // PrimeNumber.cs
@@ -11,6 +9,9 @@
 //
 //---------------------------------------------------------------
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 
 namespace PrimeNumber
